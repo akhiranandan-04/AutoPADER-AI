@@ -10,6 +10,12 @@ Unlike generic LLM applications, AutoPADER AI strictly decouples **deterministic
 
 ---
 
+## 🏗️ System Architecture
+
+![AutoPADER AI Architecture](architecture.png)
+
+---
+
 ## 🎯 Where This Can Be Used (Use Cases)
 
 AutoPADER AI is designed for drug safety operations, clinical research organizations (CROs), and pharmaceutical regulatory affairs:

@@ -1,5 +1,7 @@
 # GenAR Version 0 — Architecture
 
+![AutoPADER AI Architecture](architecture.png)
+
 GenAR auto-generates evidence-grounded PADER-style safety reports from the
 supplied Bisoprolol ICSR dataset. The core rule (AGENTS.md): the LLM must
 never compute authoritative numbers; every statistic is computed
