@@ -12,7 +12,7 @@ Unlike generic LLM applications, AutoPADER AI strictly decouples **deterministic
 
 ## 🏗️ System Architecture
 
-![AutoPADER AI Architecture](architecture.png)
+![AutoPADER AI Architecture](./architecture.png)
 
 ---
 
