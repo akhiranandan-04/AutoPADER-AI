@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+
+review_state.json
+
+*.pdf
+*.xlsx
+*.xls
